@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pylint-pmd',
-    version='0.0.1',
+    version='0.0.2.dev0',
     description='Generate PMD compatible reports for pylint',
     author='Jorge Dias',
     author_email='jorge@mrdias.com',
